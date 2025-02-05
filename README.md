@@ -17,25 +17,25 @@ This project analyzes air quality in India using a dataset obtained from Kaggle.
 
 🔍 Data Preprocessing
 
--The dataset contained missing values, which were handled as follows:
+- The dataset contained missing values, which were handled as follows:
         
--Missing values were replaced with the mean of the respective column to maintain consistency.
+- Missing values were replaced with the mean of the respective column to maintain consistency.
         
--Unnecessary columns were removed for better clarity and analysis.
+- Unnecessary columns were removed for better clarity and analysis.
         
--Duplicates were checked and removed if found to ensure data integrity.
+- Duplicates were checked and removed if found to ensure data integrity.
 
 📊 Data Analysis & Visualization
 
--Correlation Analysis: Extracted relationships between different gases.
+- Correlation Analysis: Extracted relationships between different gases.
         
--: Used Seaborn to visualize correlations.
+- Used Seaborn to visualize correlations.
         
--Time-Series Analysis: Explored trends in air quality over time.
+- Time-Series Analysis: Explored trends in air quality over time.
 
--Scatter & Line Plots: To understand gas concentration variations.
+- Scatter & Line Plots: To understand gas concentration variations.
         
--Box Plots: Identified outliers and distribution trends.
+- Box Plots: Identified outliers and distribution trends.
         
         Time-Series Analysis: Explored trends in air quality over time.
         
