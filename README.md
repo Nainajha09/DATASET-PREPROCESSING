@@ -1,8 +1,7 @@
 # DATASET-PREPROCESSING
 📖 Project Overview
 
-This project analyzes air quality in India using a dataset obtained from Kaggle  [Dataset]([https://www.kaggle.com/](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)
-. The goal is to preprocess the data, handle missing values, and extract meaningful insights, including correlations among            various gases.
+This project analyzes air quality in India using a dataset obtained from Kaggle([https://www.kaggle.com/](https://www.kaggle.com/datasets/shrutibhargava94/india-air-quality-data)).The goal is to preprocess the data, handle missing values, and extract meaningful insights, including correlations among            various gases.
 
 🛠️ Technologies Used
 
